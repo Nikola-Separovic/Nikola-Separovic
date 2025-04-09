@@ -1,5 +1,5 @@
 ## Hi, I'm Nikola 👋  
-<!--
+
 **💻Full-Stack Software Developer** passionate about building scalable solutions.  
 I’m a Software Engineer with a strong enthusiasm in full-stack development and a passion for building efficient, scalable web applications. From clean architecture to sleek front-end designs, I love bringing ideas to life with code.
 
@@ -18,4 +18,4 @@ I’m a Software Engineer with a strong enthusiasm in full-stack development and
 ### 📫 Connect  
 - [LinkedIn](https://www.linkedin.com/in/nikola-separovic)  
 - [Portfolio](https://nikola-separovic-portifolio.vercel.app)
--->
+
